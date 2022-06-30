@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-base-gumbel",
-  "version": "0.0.0",
+  "version": "0.0.6",
   "description": "Gumbel distributed pseudorandom numbers.",
   "license": "Apache-2.0",
   "author": {
