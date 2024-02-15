@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import gumbel from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-gumbel@deno/mod.js';
+import gumbel from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-gumbel@v0.2.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-gumbel@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-gumbel@v0.2.0-deno/mod.js';
 ```
 
 #### gumbel( mu, beta )
@@ -385,7 +385,7 @@ var o = rand.toJSON();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import gumbel from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-gumbel@deno/mod.js';
+import gumbel from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-gumbel@v0.2.0-deno/mod.js';
 
 var seed;
 var rand;
