@@ -44,6 +44,11 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
+gumbel = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-gumbel@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/random-base-gumbel/tags). For example,
+
+```javascript
 gumbel = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-gumbel@v0.2.0-umd/browser.js' )
 ```
 
@@ -56,7 +61,7 @@ var gumbel = require( 'path/to/vendor/umd/random-base-gumbel/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-gumbel@v0.2.0-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-gumbel@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -406,7 +411,7 @@ var o = rand.toJSON();
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-gumbel@v0.2.0-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-gumbel@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
