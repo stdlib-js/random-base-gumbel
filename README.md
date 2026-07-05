@@ -441,6 +441,7 @@ for ( i = 0; i < 100; i++ ) {
 -   <span class="package-name">[`@stdlib/random-array/gumbel`][@stdlib/random/array/gumbel]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from a Gumbel distribution.</span>
 -   <span class="package-name">[`@stdlib/random-iter/gumbel`][@stdlib/random/iter/gumbel]</span><span class="delimiter">: </span><span class="description">create an iterator for generating pseudorandom numbers drawn from a Gumbel distribution.</span>
 -   <span class="package-name">[`@stdlib/random-streams/gumbel`][@stdlib/random/streams/gumbel]</span><span class="delimiter">: </span><span class="description">create a readable stream for generating pseudorandom numbers drawn from a Gumbel distribution.</span>
+-   <span class="package-name">[`@stdlib/random-gumbel`][@stdlib/random/gumbel]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from a Gumbel distribution.</span>
 
 </section>
 
@@ -529,6 +530,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/random/iter/gumbel]: https://github.com/stdlib-js/random-iter-gumbel
 
 [@stdlib/random/streams/gumbel]: https://github.com/stdlib-js/random-streams-gumbel
+
+[@stdlib/random/gumbel]: https://github.com/stdlib-js/random-gumbel
 
 <!-- </related-links> -->
 
