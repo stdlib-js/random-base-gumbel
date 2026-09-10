@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-16)
+## Unreleased (2026-09-10)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`d083c3f`](https://github.com/stdlib-js/stdlib/commit/d083c3ff225ae0139f390869d1eb89c84951e013) - **bench:** bound seed growth in `random/base/*` factory benchmarks [(#15130)](https://github.com/stdlib-js/stdlib/pull/15130) _(by Philipp Burckhardt)_
 -   [`4db26c0`](https://github.com/stdlib-js/stdlib/commit/4db26c0ab2b51a6279793c99f5eaceb8e452599a) - **docs:** fix inconsistent JSDoc annotations [(#13959)](https://github.com/stdlib-js/stdlib/pull/13959) _(by Philipp Burckhardt)_
 -   [`a12fce1`](https://github.com/stdlib-js/stdlib/commit/a12fce1cd6bd65c7aee8a2aee997200f71c83a62) - **docs:** update related packages sections [(#13276)](https://github.com/stdlib-js/stdlib/pull/13276) _(by stdlib-bot)_
 -   [`b603d47`](https://github.com/stdlib-js/stdlib/commit/b603d47b873c4c30fb25d3cb2368aafc21444d6b) - **test:** add missing closing brace in TypeScript test files [(#12718)](https://github.com/stdlib-js/stdlib/pull/12718) _(by Philipp Burckhardt)_
